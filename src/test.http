@@ -1,0 +1,6 @@
+POST https://api.liveblocks.io/v2/rooms/react-todo-app/public/authorize
+Content-Type:application/json
+
+{
+  "publicApiKey": "pk_test_oOGQi75ifSWwiepK_J2IGg5R"
+}
