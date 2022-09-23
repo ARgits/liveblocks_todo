@@ -1,6 +1,14 @@
+# curl --location --request POST 'https://api.liveblocks.io/v2/rooms/react-todo-app/public/authorize' 
+#--header 'Content-Type: application/json' 
+#--data-raw '{
+#  "publicApiKey": "pk_live_1ZK937fzILLdz6kq5eL4Oq5E"
+#}'
 POST https://api.liveblocks.io/v2/rooms/react-todo-app/public/authorize
-Content-Type:application/json
+Content-Type: application/json
 
 {
-  "publicApiKey": "pk_test_oOGQi75ifSWwiepK_J2IGg5R"
+  "publicApiKey": "pk_live_1ZK937fzILLdz6kq5eL4Oq5E"
 }
+
+###
+
